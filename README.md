@@ -26,6 +26,6 @@ A mini project for managing student marks and grades using HTML, CSS, and JavaSc
 
 ## 📌 Author
 
-Created by **Your Name**
+Created by **Saloni Zanje**
 
 > Star ⭐ the repo if you like it!
